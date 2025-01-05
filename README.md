@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://fb.com/nikesh.bhujel.505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikesh bhujel" height="30" width="40" /></a>
 <a href="https://instagram.com/nikesh_vuzzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikesh_vuzzel" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/lekh-bdr-bhujel-2a1b9030b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
