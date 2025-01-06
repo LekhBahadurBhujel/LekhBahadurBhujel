@@ -1,9 +1,12 @@
-## Hi there 👋
+
 
 ![MasterHead](https://i.pinimg.com/originals/fc/fa/ef/fcfaefaec51930ceaeb5a324292f3975.gif) 
 <img align="right" alt="Coding" width="400" src="https://nikeshbhujel.art.blog/wp-content/uploads/2022/05/giphy.gif">
  
-<h1 align="center">Hi 👋, I'm Lekh Bahadur Bhujel aka NIKESH</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lekh+Bahadur+Bhujel!;+aka+Nikesh+Bhujel;" />
+</h1>
+
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
 
 <img align="left" alt="Coding" width="400" src="https://nikeshbhujel.art.blog/wp-content/uploads/2022/05/70c418bd-3eb1-4c45-a21a-eb84ba5eecbe.gif">
