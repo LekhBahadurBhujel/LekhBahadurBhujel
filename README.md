@@ -11,6 +11,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://nikeshbhujel.art.blog/wp-content/uploads/2022/05/70c418bd-3eb1-4c45-a21a-eb84ba5eecbe.gif">
 
+ <br>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lekhbahadurbhujel&label=Profile%20views&color=0e75b6&style=flat" alt="lekhbahadurbhujel" /> </p>
 <p align="center"> <a href="https://instagram.com/nikesh_vuzzel" target="blank"><img src="https://img.shields.io/twitter/follow/nikesh_vuzzel?logo=twitter&style=for-the-badge" alt="nikesh"  </p>
@@ -20,7 +21,9 @@
 </div>
  
 <div align="center"> 
+ 
  <h3>Connect with me:</h3>
+ <br> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lekhbdrbhujel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
