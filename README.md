@@ -1,10 +1,10 @@
-
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 ![MasterHead](https://i.pinimg.com/originals/fc/fa/ef/fcfaefaec51930ceaeb5a324292f3975.gif) 
 <img align="right" alt="Coding" width="400" src="https://nikeshbhujel.art.blog/wp-content/uploads/2022/05/giphy.gif">
  
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lekh+Bahadur+Bhujel!;+aka+Nikesh+Bhujel;" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lekh+Bahadur+Bhujel!;+aka+Nikesh+Bhujel;" />
 </h1>
 
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
@@ -12,8 +12,8 @@
 <img align="left" alt="Coding" width="400" src="https://nikeshbhujel.art.blog/wp-content/uploads/2022/05/70c418bd-3eb1-4c45-a21a-eb84ba5eecbe.gif">
 
  <br>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lekhbahadurbhujel&label=Profile%20views&color=0e75b6&style=flat" alt="lekhbahadurbhujel" /> </p>
+
+
 <p align="center"> <a href="https://instagram.com/nikesh_vuzzel" target="blank"><img src="https://img.shields.io/twitter/follow/nikesh_vuzzel?logo=twitter&style=for-the-badge" alt="nikesh"  </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
